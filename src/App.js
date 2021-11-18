@@ -15,6 +15,3 @@ function App() {
 }
 
 export default App;
-
-// strict exact
-// strict exact
